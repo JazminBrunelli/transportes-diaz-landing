@@ -1,6 +1,6 @@
 import { ArrowRight } from 'lucide-react'
 import { motion, useMotionValue, useTransform } from 'framer-motion'
-import heroVideo from '../assets/videos/VideoCompletoDronDiaz2.mp4'
+import heroVideo from '../assets/videos/VideoCompletoDronDiaz233.mp4'
 import '../styles/hero.css'
 
 function Hero() {
