@@ -1,7 +1,7 @@
 import { motion, useMotionValue, useTransform } from 'framer-motion'
 import { BriefcaseBusiness, CalendarCheck, Handshake, Route } from 'lucide-react'
 
-import empresaImg from '../assets/img/empresaDiaz.jpg'
+import empresaImg from '../assets/img/empresaDiaz.JPG'
 import oficinaImg from '../assets/img/OficinaAfueraCerca.jpg'
 import empresaAfueraImg from '../assets/img/EmpresaAfuera.JPG'
 
